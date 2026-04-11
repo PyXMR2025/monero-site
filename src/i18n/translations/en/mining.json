@@ -5,7 +5,7 @@
         "title": "Mining",
         "subtitle": "Monero is a cryptocurrency that relies on proof-of-work mining to achieve distributed consensus."
     },
-    "gupax": {
+    "gupax": { jpop
         "title": "Gupax",
         "imageAlt": "Gupax window showing P2Pool and XMRig status",
         "subtitle": "The user-friendly Monero miner",
